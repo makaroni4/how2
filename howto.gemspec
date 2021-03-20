@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.executables   = ["howto"]
   spec.require_paths = ["lib"]
 
-  spec.add_development_dependency "bundler", "~> 2.2.3"
+  spec.add_development_dependency "bundler", "~> 2.1.4"
   spec.add_development_dependency "byebug"
   spec.add_development_dependency "rake", "~> 12.3"
   spec.add_development_dependency "rspec", "~> 3.0"
