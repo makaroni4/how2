@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "howto"
+require "howto/cli"
+
+exit Howto::CLI.new.run(ARGV)
